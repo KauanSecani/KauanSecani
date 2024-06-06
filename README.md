@@ -1,6 +1,6 @@
 ## Oiii eu sou o Kauan Secani, criador de conteúdo de programação e tecnologia!
 
-<div style="display: inline_block"> <br>
+<div style="display: inline_block">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSecani)](https://github.com/KauanSecani/github-readme-stats)
 
