@@ -5,7 +5,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=great-gatsby&&show_icons=true&custom_title=Stats" />
 </a>
 <a href="https://github.com/KauanSecani/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KauanSecani&theme=great-gatsby&&show_icons=true&layout=compact&langs_count=8&card_width=320&custom_title=Linguages Utilizadas" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KauanSecani&theme=great-gatsby&&show_icons=true&layout=compact&langs_count=8&card_width=320&custom_title=Linguages/nUtilizadas" />
 </a>
 
 <div style="display: inline_block"><br>
