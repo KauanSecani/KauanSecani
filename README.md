@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=dark&border_color=yellow)](https://github.com/KauanSecani/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=dark&border_color=#ffff00)](https://github.com/KauanSecani/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSecani&layout=donut&theme=dark)](https://github.com/KauanSecani/github-readme-stats)
 
