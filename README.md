@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/KauanSecani/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=great-gatsby&&show_icons=true&custom_title=Status&nbsp;De&nbsp;Kauan&nbsp;Secani:" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=great-gatsby&&show_icons=true&custom_title=Status&nbsp;De&nbsp;Kauan&nbsp;Secani:&rank_icon=true" />
 </a>
 <a href="https://github.com/KauanSecani/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KauanSecani&theme=great-gatsby&&show_icons=true&layout=compact&langs_count=8&card_width=320&custom_title=Linguages&nbsp;Mais&nbsp;Usadas:&rank_icon=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KauanSecani&theme=great-gatsby&&show_icons=true&layout=compact&langs_count=8&card_width=320&custom_title=Linguages&nbsp;Mais&nbsp;Usadas:" />
 </a>
 
 <div style="display: inline_block"><br>
