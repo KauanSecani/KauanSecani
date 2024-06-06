@@ -1,10 +1,5 @@
-## Oiii eu sou o Kauan Secani, criador de conteúdo de programação e tecnologia!
+## Opaa eu sou o Kauan Secani, criador de conteúdo de programação e tecnologia!
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=great-gatsby&&show_icons=true&show_owner=true)](https://github.com/KauanSecani/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSecani&layout=donut&theme=great-gatsby&&show_icons=true)](https://github.com/KauanSecani/github-readme-stats)
 
 <a href="https://github.com/KauanSecani/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=great-gatsby&&show_icons=true&show_owner=true" />
