@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=great-gatsby&&show_icons=true)](https://github.com/KauanSecani/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=great-gatsby&&show_icons=true&hide_border=false)](https://github.com/KauanSecani/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSecani&layout=donut&theme=great-gatsby&&show_icons=true)](https://github.com/KauanSecani/github-readme-stats)
 
