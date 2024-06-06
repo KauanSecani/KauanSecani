@@ -7,10 +7,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSecani&layout=donut&theme=great-gatsby&&show_icons=true)](https://github.com/KauanSecani/github-readme-stats)
 
 <a href="https://github.com/KauanSecani/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KauanSecani&theme=great-gatsby&&show_icons=true&show_owner=true" />
 </a>
 <a href="https://github.com/KauanSecani/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra]https://github-readme-stats.vercel.app/api/top-langs/?username=KauanSecani&layout=donut&theme=great-gatsby&&show_icons=true&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KauanSecani&layout=donut&theme=great-gatsby&&show_icons=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
